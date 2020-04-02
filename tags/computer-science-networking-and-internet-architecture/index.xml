@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Networking and Internet Architecture | Academic</title>
+    <link>/tags/computer-science-networking-and-internet-architecture/</link>
+      <atom:link href="/tags/computer-science-networking-and-internet-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Networking and Internet Architecture</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Computer Science - Networking and Internet Architecture</title>
+      <link>/tags/computer-science-networking-and-internet-architecture/</link>
+    </image>
+    
+    <item>
+      <title>Service Function Chaining Resource Allocation: A Survey</title>
+      <link>/publication/xie-service-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-service-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

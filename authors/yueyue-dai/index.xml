@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yueyue Dai | Academic</title>
+    <link>/authors/yueyue-dai/</link>
+      <atom:link href="/authors/yueyue-dai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yueyue Dai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yueyue Dai</title>
+      <link>/authors/yueyue-dai/</link>
+    </image>
+    
+    <item>
+      <title>Revenue-Maximizing Virtualized Network Function Chain Placement in Dynamic Environment</title>
+      <link>/publication/xie-revenuemaximizing-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-revenuemaximizing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provable Algorithm for Virtualised Network Function Chain Placement in Dynamic Environment</title>
+      <link>/publication/xie-provable-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-provable-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

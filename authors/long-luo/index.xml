@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long Luo | Academic</title>
+    <link>/authors/long-luo/</link>
+      <atom:link href="/authors/long-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Long Luo</title>
+      <link>/authors/long-luo/</link>
+    </image>
+    
+    <item>
+      <title>Virtualized Network Function Provisioning in Stochastic Cloud Environment</title>
+      <link>/publication/xie-virtualized-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-virtualized-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

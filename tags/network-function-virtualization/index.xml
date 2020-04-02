@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Function Virtualization | Academic</title>
+    <link>/tags/network-function-virtualization/</link>
+      <atom:link href="/tags/network-function-virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Function Virtualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Network Function Virtualization</title>
+      <link>/tags/network-function-virtualization/</link>
+    </image>
+    
+    <item>
+      <title>Revenue-Maximizing Virtualized Network Function Chain Placement in Dynamic Environment</title>
+      <link>/publication/xie-revenuemaximizing-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-revenuemaximizing-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
